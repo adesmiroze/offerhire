@@ -6,10 +6,7 @@
     <title>OfferHire</title>
 </head>
 <body>
-    <h1>Redireccionando...</h1>
-    <script>
-        window.location.href = "web/"; 
-    </script>
+    <h1>Página principal web</h1> 
 
 </body>
 </html>

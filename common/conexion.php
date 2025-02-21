@@ -12,7 +12,7 @@ $conexion = new mysqli($host, $usuario, $contrasena, $base_de_datos);
 // Verificar la conexión
 if ($conexion->connect_error) {
   die("Error de conexión: " . $conexion->connect_error);
-}
+}else{ echo"Conexion exitosa";}
 
 // Opcional: Establecer el conjunto de caracteres
 $conexion->set_charset("utf8");

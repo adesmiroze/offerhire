@@ -8,7 +8,7 @@
 <body>
     <h1>Redireccionando...</h1>
     <script>
-        window.location.href = "login/login.php"; 
+        window.location.href = "home/index.php"; 
     </script>
 </body>
 </html>
